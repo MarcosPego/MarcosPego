@@ -7,13 +7,15 @@ These are technologies and languages I'm most familiar with:
 
 ### Technologies
 ![Unity](https://img.shields.io/badge/-Unity-a?logoColor=white&logo=Unity&color=black)
-![Unity](https://img.shields.io/badge/-OpenGl-a?logoColor=white&logo=OpenGl&color=green)
+![OpenGL](https://img.shields.io/badge/-OpenGl-a?logoColor=white&logo=OpenGl&color=green)
+![Blender](https://img.shields.io/badge/-Blender-a?logoColor=white&logo=Blender&color=orange)
 
 ### Languages
+![C#](https://img.shields.io/badge/-C%23-a?logoColor=white&logo=C%20Sharp&color=239120)
 ![C++](https://img.shields.io/badge/-C%2b%2b-a?logoColor=white&logo=C%2b%2b&color=00599C)
 ![Java](https://img.shields.io/badge/-Java-a?logoColor=white&logo=Java&color=007396)
-![C#](https://img.shields.io/badge/-C%23-a?logoColor=white&logo=C%20Sharp&color=239120)
 ![Python](https://img.shields.io/badge/-Python-a?logoColor=white&logo=Python&color=3776AB)
+![C](https://img.shields.io/badge/-C-a?logoColor=white&logo=C&color=A8B9CC)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-a?logoColor=white&logo=PostgreSQL&color=336791)
